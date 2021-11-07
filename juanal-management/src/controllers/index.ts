@@ -5,3 +5,7 @@ export * from './mascota-propietario.controller';
 export * from './propietario-mascota.controller';
 export * from './local-propietario.controller';
 export * from './propietario-local.controller';
+export * from './propietario.controller';
+export * from './factira.controller';
+export * from './mascota.controller';
+export * from './locales.controller';
